@@ -1,4 +1,4 @@
 # To Do List
-<h1>Web Developer Bootcamp</h1>
+<h3>Web Developer Bootcamp</h3>
 
     Javascript/jQuery project
